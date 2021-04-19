@@ -84,6 +84,7 @@
     
 }
 .caja:nth-of-type(8) > p{
+    font-family: 'Indie Flower', cursive;
     margin: 10px;
     text-align: center;
 }
